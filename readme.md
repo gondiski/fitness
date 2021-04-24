@@ -14,7 +14,7 @@ git clone https://github.com/gondiski/fitness.git
 
 ```html
 <!--Edit the fields you'd like to see a change in below-->
-<div class="row col border shadow-lg rounded bg-primary bg-gradient-primary px-0">
+<div class="row col border shadow-lg rounded bg-warning bg-gradient-warning px-0">
     <div class="col-8 bg-white h-75">
         <h1 class="display-2">Bhingi Fitness</h1>
         <p class="display-4">Be fit quicker</p>
@@ -24,7 +24,7 @@ git clone https://github.com/gondiski/fitness.git
             <div class="form-group">
             <input type="email" class="form-control rounded-pill"></div>
             <div class="form-group">
-            <input type="submit" value="Subscribe" class="btn bg-primary bg-gradient-primary rounded-pill text-white">
+            <input type="submit" value="Subscribe" class="btn bg-warning bg-gradient-warning rounded-pill text-white">
             </div>
         </form>
         <footer class="footer">
